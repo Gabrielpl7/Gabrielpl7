@@ -32,5 +32,5 @@
 [mcgo]
 
 
-[mcgo]: https://codeSTACKr.com
-[szybkapremka]: http://vsCodeHero.com
+[mcgo]: https://mcgo.pl
+[szybkapremka]: http://szybkapremka.pl
