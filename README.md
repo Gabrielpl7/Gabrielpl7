@@ -1,5 +1,5 @@
 ### Siemano 🙋‍♂️
-
+---
 ## Kontakt do mnie:
 
 ### Discord: Gabriel ;)#0033
